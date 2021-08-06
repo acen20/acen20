@@ -7,7 +7,7 @@
     <h5>Tech Stack</h5>
   </td>
   <td colspan="5" align="center">
-<img src="https://user-images.githubusercontent.com/62377713/128511266-dc96ca65-c9bc-433c-81a4-4810d07ad1ff.png"/>
+<img src="https://user-images.githubusercontent.com/62377713/128522930-05ae65c3-b735-4aac-a150-37b4fd4dfbe0.png"/>
 
   </td>
 </tr>
