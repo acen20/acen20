@@ -34,4 +34,8 @@
 </tr>
 </table>
 
-![Untitled](https://user-images.githubusercontent.com/62377713/128506851-b77c54d5-553b-4bef-a83b-919fdeb170a0.png)
+<p align="center">
+
+![Untitled](https://user-images.githubusercontent.com/62377713/128507732-97e83bce-711b-4d32-b877-0c3c44d65ee7.png)
+  
+</p>
