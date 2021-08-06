@@ -2,7 +2,7 @@
 <table align="center">
 <tr>
   <td colspan="5">
-    # Brief Outline
+    <h5> Tech Stack </h5>
   </td>
 </tr>
 <tr>
