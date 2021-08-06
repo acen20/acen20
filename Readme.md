@@ -1,6 +1,11 @@
 <p align="center"><code align="center">{WebDev: 'playful', DataSciences: 'intriguing and revolutionary'}</code></p>
 <table align="center">
 <tr>
+  <td colspan="5">
+    # Brief Outline
+  </td>
+</tr>
+<tr>
 <td>
   
 ```diff
