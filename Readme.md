@@ -1,5 +1,6 @@
-
-<p><code align="center">{WebDev: 'playful', DataSciences: 'intriguing and revolutionary'}</code></p>
+    { WebDev:       'playful', 
+      DataSciences: 'intriguing and revolutionary'}
+  
 <table align="center">
 <tr padding="0px">
   <td>
