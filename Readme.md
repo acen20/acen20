@@ -1,5 +1,4 @@
-<p align="center"><b>I see web development as a favorite skill to play around with. I find data sciences as intriguing and revolutionary.
-So, this profile contains:</b></center>
+<p align="center"><code align="center">{WebDev: 'playful', DataSciences: 'intriguing and revolutionary'}</code></p>
 <table align="center">
 <tr>
 <td>
