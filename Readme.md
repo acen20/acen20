@@ -18,19 +18,19 @@ So, this profile mostly contains:
  <td>
   
 ```diff
-+ HTML
+# HTML
 ```
 </td>
  <td>
   
 ```diff
-+ CSS
+# CSS
 ```
 </td>
 <td>
   
 ```diff
-@@ Coding Challenges @@
+@@ Coding Challenges and Algorithms @@
 ```
 </td>
 </tr>
