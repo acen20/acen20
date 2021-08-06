@@ -1,6 +1,6 @@
 <p align="center"><b>I see web development as a favorite skill to play around with. I find data sciences as intriguing and revolutionary.
 So, this profile contains:</b></center>
-<table>
+<table align="center">
 <tr>
 <td>
   
