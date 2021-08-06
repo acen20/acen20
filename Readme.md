@@ -1,3 +1,4 @@
+
 I see web development as a favorite skill to play around with. I find data sciences as intriguing and revolutionary.
 So, this profile mostly contains:
 <table>
@@ -11,19 +12,25 @@ So, this profile mostly contains:
 <td>
   
 ```diff
-+ Python
+! JavaScript
 ```
 </td>
  <td>
   
 ```diff
-+ Python
++ HTML
 ```
 </td>
  <td>
   
 ```diff
-+ Python
++ CSS
+```
+</td>
+<td>
+  
+```diff
+@@ Coding Challenges @@
 ```
 </td>
 </tr>
