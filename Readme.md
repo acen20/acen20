@@ -14,16 +14,18 @@
 <tr>
   <td><h5>Featured<h5></td>
 <td>
-  
-```diff
+
+```diff 
 + Python
 ```
+  
 </td>
 <td>
-  
+
 ```diff
 ! JavaScript
 ```
+
 </td>
  <td>
   
