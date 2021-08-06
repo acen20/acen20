@@ -33,7 +33,3 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img width="400px" src="https://user-images.githubusercontent.com/62377713/128507732-97e83bce-711b-4d32-b877-0c3c44d65ee7.png"/>
-</p>
