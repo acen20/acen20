@@ -16,33 +16,37 @@
 <td>
 
 ```diff 
-+ Python
++ Machine 
++ Learning
 ```
   
 </td>
 <td>
 
 ```diff
-! JavaScript
+! Web
+! Development
 ```
 
 </td>
  <td>
   
 ```diff
-# HTML
+- Data 
+- Analysis
 ```
 </td>
  <td>
   
 ```diff
-# CSS
+# Deep
+# Learning
 ```
 </td>
 <td>
   
 ```diff
-@@ Coding Challenges and @@
+@@Coding Challenges@@
 @@ Algorithms @@
 ```
 </td>
