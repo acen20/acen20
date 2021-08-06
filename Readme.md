@@ -1,5 +1,5 @@
 
-<p align="center"><code align="center">{WebDev: 'playful', DataSciences: 'intriguing and revolutionary'}</code></p>
+<p><code align="center">{WebDev: 'playful', DataSciences: 'intriguing and revolutionary'}</code></p>
 <table align="center">
 <tr padding="0px">
   <td>
