@@ -1,8 +1,13 @@
 <p align="center"><code align="center">{WebDev: 'playful', DataSciences: 'intriguing and revolutionary'}</code></p>
 <table align="center">
 <tr>
-  <td colspan="5">
+  <td>
     <h5> Tech Stack </h5>
+  </td>
+  <td colspan="4">
+    <p align="center">
+<img src="https://user-images.githubusercontent.com/62377713/128507732-97e83bce-711b-4d32-b877-0c3c44d65ee7.png"/>
+</p>
   </td>
 </tr>
 <tr>
