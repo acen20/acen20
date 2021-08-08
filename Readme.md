@@ -15,8 +15,7 @@
         
       domains = { 
            WebDev:       'playful', 
-           DataSciences: 'intriguing and revolutionary'
-        }
+           DataSciences: 'intriguing and revolutionary'}
 </b>
 </div>
 </td>
