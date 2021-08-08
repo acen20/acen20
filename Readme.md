@@ -13,8 +13,7 @@
 <div align="left">
 <b>  
         
-      domains =     
-        { 
+      domains = { 
            WebDev:       'playful', 
            DataSciences: 'intriguing and revolutionary'
         }
