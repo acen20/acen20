@@ -2,7 +2,7 @@
 <tr>
 <td width="800">
 
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light&hide_border=1) 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light&hide_border=1&hide=prs,issues) 
 
 </td>
 <td align="center">
