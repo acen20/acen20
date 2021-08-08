@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="800">
+<td>
 
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=dracula&hide_border=1&) 
 
