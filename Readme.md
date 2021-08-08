@@ -36,7 +36,9 @@
  
 <div>
         
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=spotify)](https://github.com/acen20/spotify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=pkflix)](https://github.com/acen20/pkflix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=spotify)](https://github.com/acen20/spotify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=pkflix)](https://github.com/acen20/pkflix) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&theme=nord&card_width=800&repo=CNN-Tensorflow-Keras-for-sound-classification)](https://github.com/acen20/CNN-Tensorflow-Keras-for-sound-classification) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&theme=nord&card_width=800&repo=Police-shootings-analysis)](https://github.com/acen20/Police-shootings-analysis)
 </div>
   
 <table align="center">
