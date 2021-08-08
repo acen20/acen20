@@ -2,21 +2,26 @@
 <tr>
 <td>
 
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light) 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light&hide_border=1) 
 
 </td>
-<td align="right">
+<td align="center">
+<h6 align="center">BUIC (BS) | PIEAS (MS) | IT Scholarship awardee</h6>
 <a href="mailto:ahsenmailbox@gmail.com">Contact me</a>  |  
 <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
-<a href="https://facebook.com/acen20">Facebook</a>  
-<hr/>
+<a href="https://facebook.com/acen20">Facebook</a>  <hr/>
+
 <div align="left">
+<b>  
         
-    { WebDev:       'playful', 
-      DataSciences: 'intriguing and revolutionary'}
+      domains =     
+        { 
+           WebDev:       'playful', 
+           DataSciences: 'intriguing and revolutionary'
+        }
+
+</b>
 </div>
-<hr/>
-<p align="center">Modesty is the highest elegance</p>
 
 </td>
 </tr>
