@@ -20,7 +20,7 @@
 <tr>
 <td align="">
         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&card_width=350)](https://github.com/acen20/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&card_width=350&theme=dracula)](https://github.com/acen20/)
 </td>
 <td>
         
