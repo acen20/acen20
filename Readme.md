@@ -1,11 +1,11 @@
 <table>
 <tr>
-<td>
+<td colspan="2">
 
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light&hide_border=1) 
 
 </td>
-<td align="center">
+<td colspan="1" align="center">
 <h6 align="center">BUIC (BS) | PIEAS (MS) | IT Scholarship awardee</h6>
 <a href="mailto:ahsenmailbox@gmail.com">Contact me</a>  |  
 <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
