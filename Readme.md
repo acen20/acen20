@@ -6,11 +6,13 @@
 
 </td>
 <td>
+<a href="mailto:ahsenmailbox@gmail.com">Contact me |</a>  
+<a  target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn |</a>
+<a href="https://linkedin.com/in/ahsen-nazir10">Facebook |</a>
     
     { WebDev:       'playful', 
       DataSciences: 'intriguing and revolutionary'}
-<a href="mailto:ahsenmailbox@gmail.com">Get in touch</a>
-<a href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>
+
 </td>
 </tr>
 </table>
