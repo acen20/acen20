@@ -5,15 +5,18 @@
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light) 
 
 </td>
-<td align="center">
+<td align="right">
 <a href="mailto:ahsenmailbox@gmail.com">Contact me</a>  |  
 <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
-<a href="https://facebook.com/acen20">Facebook</a>  |   
-<br/>
-<br/>
-    
+<a href="https://facebook.com/acen20">Facebook</a>  
+<hr/>
+<div align="left">
+        
     { WebDev:       'playful', 
       DataSciences: 'intriguing and revolutionary'}
+</div>
+<hr/>
+<p align="center">Modesty is the highest elegance</p>
 
 </td>
 </tr>
