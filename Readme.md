@@ -6,11 +6,10 @@
 
 </td>
 <td align="center">
-<hr/>
 <h6 align="center">BUIC (BS) | PIEAS (MS) | IT Scholarship awardee</h6>
 <a href="mailto:ahsenmailbox@gmail.com">Contact me</a>  |  
 <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
-<a href="https://facebook.com/acen20">Facebook</a>  <hr/>
+<a href="https://facebook.com/acen20">Facebook</a> 
 <div align="left">
 
 </div>
