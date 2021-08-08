@@ -9,7 +9,8 @@
     
     { WebDev:       'playful', 
       DataSciences: 'intriguing and revolutionary'}
-I am sad that GitHub strips CSS and many HTML tags and attributes. But try and strip this emoji 😋
+<a href="mailto:ahsenmailbox@gmail.com">Get in touch</a>
+<a href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>
 </td>
 </tr>
 </table>
