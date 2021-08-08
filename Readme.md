@@ -1,8 +1,8 @@
 <table>
 <tr>
 <td>
-
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=dracula&hide_border=1&) 
+        
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=dracula&card_width=800) 
 
 </td>
 <td align="center">
@@ -20,7 +20,23 @@
 </div>
 </td>
 </tr>
+        
+<tr>
+<td align="">
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=notebook&layout=compact&card_width=400)](https://github.com/acen20/)
+</td>
+<td>
+        
+
+</td>
+</tr>
 </table>
+ 
+<div>
+        
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=spotify)](https://github.com/acen20/spotify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=pkflix)](https://github.com/acen20/pkflix)
+</div>
   
 <table align="center">
 
