@@ -6,9 +6,9 @@
 
 </td>
 <td align="center">
-<a href="mailto:ahsenmailbox@gmail.com">Contact me | </a>  
-<a target="_blank" href="https://linkedin.com/in/ahsen-nazir10"> LinkedIn | </a>
-<a href="https://linkedin.com/in/ahsen-nazir10"> Facebook | </a>  
+<a href="mailto:ahsenmailbox@gmail.com">Contact me</a>  |  
+<a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
+<a href="https://facebook.com/acen20">Facebook</a>  |   
 <br/>
 <br/>
     
