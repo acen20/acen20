@@ -1,3 +1,4 @@
+
     { WebDev:       'playful', 
       DataSciences: 'intriguing and revolutionary'}
   
@@ -62,3 +63,8 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+    
+<img src="https://user-images.githubusercontent.com/62377713/128623706-8781de8d-54cf-4ac0-83f5-6a874fd50b22.gif" /> <img src="https://user-images.githubusercontent.com/62377713/128623706-8781de8d-54cf-4ac0-83f5-6a874fd50b22.gif" /> <img src="https://user-images.githubusercontent.com/62377713/128623706-8781de8d-54cf-4ac0-83f5-6a874fd50b22.gif" /> <img src="https://user-images.githubusercontent.com/62377713/128623706-8781de8d-54cf-4ac0-83f5-6a874fd50b22.gif" /> <img src="https://user-images.githubusercontent.com/62377713/128623706-8781de8d-54cf-4ac0-83f5-6a874fd50b22.gif" />
+    </div>
