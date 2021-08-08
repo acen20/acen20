@@ -5,10 +5,12 @@
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light) 
 
 </td>
-<td>
-<a href="mailto:ahsenmailbox@gmail.com">Contact me |</a>  
-<a  target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn |</a>
-<a href="https://linkedin.com/in/ahsen-nazir10">Facebook |</a>
+<td align="center">
+<a href="mailto:ahsenmailbox@gmail.com">Contact me | </a>  
+<a target="_blank" href="https://linkedin.com/in/ahsen-nazir10"> LinkedIn | </a>
+<a href="https://linkedin.com/in/ahsen-nazir10"> Facebook | </a>  
+<br/>
+<br/>
     
     { WebDev:       'playful', 
       DataSciences: 'intriguing and revolutionary'}
