@@ -1,12 +1,18 @@
-<div>
-    
-<img border="none" src="https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light"/>
-    
-</div>
+<table>
+<tr>
+<td>
 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&theme=light) 
 
+</td>
+<td>
+    
     { WebDev:       'playful', 
       DataSciences: 'intriguing and revolutionary'}
+I am sad that GitHub strips CSS and many HTML tags and attributes. But try and strip this emoji 😋
+</td>
+</tr>
+</table>
   
 <table align="center">
 
