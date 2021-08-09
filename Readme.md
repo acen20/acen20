@@ -33,7 +33,7 @@
 </tr>
 </table>
  <hr/>
-<div>
+<div align="center">
         
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=spotify)](https://github.com/acen20/spotify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acen20&repo=pkflix)](https://github.com/acen20/pkflix) 
 
