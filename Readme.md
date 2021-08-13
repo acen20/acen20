@@ -6,7 +6,7 @@
 
 </td>
 <td align="center">
-<h6 align="center">BUIC (BS) | PIEAS (MS) | IT Scholarship awardee</h6>
+<h3 align="center">Ahsen Nazir</h3>
 <a href="mailto:ahsenmailbox@gmail.com">Contact me</a>  |  
 <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
 <a href="https://facebook.com/acen20">Facebook</a> 
