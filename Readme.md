@@ -6,11 +6,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&theme=light&hide_border=1)](https://github.com/acen20/)
 </div>
 
-<h3 align="center"></h3>
-<a href="mailto:ahsenmailbox@gmail.com">Email</a>  |  
-<a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
-<a href="https://facebook.com/acen20">Facebook</a>  |
-<a href="#">Website</a> 
+<div align="center">
+        <a href="mailto:ahsenmailbox@gmail.com">Email</a>  |  
+        <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
+        <a href="https://facebook.com/acen20">Facebook</a>  |
+        <a href="#">Website</a> 
+</div>
 
 <b>  
         
