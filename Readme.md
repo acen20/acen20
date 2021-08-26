@@ -1,40 +1,25 @@
-<table>
-<tr>
-<td>
+<div>
 
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=algolia&card_width=800&hide=contribs&show_icons=0) 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=light&hide=contribs&show_icons=0) 
 
-</td>
-<td align="center">
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&theme=light&hide_border=1)](https://github.com/acen20/)
+</div>
+
 <h3 align="center"></h3>
 <a href="mailto:ahsenmailbox@gmail.com">Email</a>  |  
 <a target="_blank" href="https://linkedin.com/in/ahsen-nazir10">LinkedIn</a>  |
 <a href="https://facebook.com/acen20">Facebook</a>  |
 <a href="#">Website</a> 
-<div align="left">
 
-</div>
-</td>
-</tr>
-        
-<tr>
-<td align="">
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&card_width=350&theme=algolia)](https://github.com/acen20/)
-</td>
-<td>
-        
 <b>  
         
       domains = { 
            WebDev:       'playful', 
            DataSciences: 'intriguing and revolutionary'}
 </b>
-</td>
-</tr>
-</table>
 
-  <hr/>
+
 <table align="center">
 
 <tr padding="0px">
