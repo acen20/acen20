@@ -20,7 +20,9 @@
            WebDev:       'playful', 
            DataSciences: 'intriguing and revolutionary'}
 </b>
-
+        
+<h3>Tech Stack</h3>
+        
 <img src="https://user-images.githubusercontent.com/62377713/131205779-d75810a9-4c92-4934-9acd-47de6049191a.png" width=450px/>
 
 <table align="center">
