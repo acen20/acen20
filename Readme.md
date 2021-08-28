@@ -24,43 +24,29 @@
 <h3>Tech Stack</h3>
         
 <img src="https://user-images.githubusercontent.com/62377713/131205779-d75810a9-4c92-4934-9acd-47de6049191a.png" width=450px/>
-
-<table align="center">
-
-
+<table>
 <tr>
-  <td><h5>Featured<h5></td>
-<td>
-
+<td colspan=5>
+        
 ```diff 
 + Machine 
 + Learning
 ```
-  
-</td>
-<td>
 
 ```diff
 ! Web
 ! Development
 ```
-
-</td>
- <td>
   
 ```diff
 - Data 
 - Analysis
 ```
-</td>
- <td>
   
 ```diff
 # Deep
 # Learning
 ```
-</td>
-<td>
   
 ```diff
 @@Coding Challenges@@
@@ -68,8 +54,8 @@
 ```
 </td>
 </tr>
-<tr>
-    <td><h5>Crew</h5></td>
+</table>
+<h5>Crew</h5>
     <td colspan="5" align="center">
     
 <img height="90px" src="https://user-images.githubusercontent.com/62377713/128623706-8781de8d-54cf-4ac0-83f5-6a874fd50b22.gif" /> <img height="90px" src="https://user-images.githubusercontent.com/62377713/128624049-4c26317e-3177-4754-b873-d607aede8c23.gif" /> <img height="90px" src="https://user-images.githubusercontent.com/62377713/128624049-4c26317e-3177-4754-b873-d607aede8c23.gif" /> <img height="90px" src="https://user-images.githubusercontent.com/62377713/128624312-a1a0f1ba-c301-48c5-b2b8-676c63b8fd03.gif" />
