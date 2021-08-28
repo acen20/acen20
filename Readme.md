@@ -1,4 +1,5 @@
-<div>
+<div align="center">
+<div align="center">
 
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=light&hide=contribs&show_icons=0) 
 
@@ -13,34 +14,18 @@
         <a href="#">Website</a> 
 </div>
 
-<b>  
+<b align="center">  
         
       domains = { 
            WebDev:       'playful', 
            DataSciences: 'intriguing and revolutionary'}
 </b>
 
+<img src="https://user-images.githubusercontent.com/62377713/131205779-d75810a9-4c92-4934-9acd-47de6049191a.png" width=450px/>
 
 <table align="center">
 
-<tr padding="0px">
-  <td rowspan="2">
-    <h5>Tech Stack</h5>
-  </td>
-  
-<td>
-    <h5>Web Dev</h5>
-</td>
-    
-  <td colspan="5" rowspan="2" align="center">
-<img src="https://user-images.githubusercontent.com/62377713/128562395-1e12db70-79b6-4e6a-b465-bfe3f72e133f.png"/>
-  </td>
-</tr>
 
-<tr>
-    <td><h5>Data Science</h5></td>
-</tr>
-    
 <tr>
   <td><h5>Featured<h5></td>
 <td>
@@ -90,3 +75,4 @@
       </tr>
 </table>    
 
+</div>
