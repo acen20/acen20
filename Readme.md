@@ -1,5 +1,11 @@
 <div align="cener">
 <div align="cente">
+        
+[![Made withJupyter](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ahsen-nazir10)
+        [![Made withJupyter](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook)](https://linkedin.com/in/ahsen-nazir10)
+        [![Made withJupyter](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:ahsenmailbox@gmail.com)
+        [![Made withJupyter](https://img.shields.io/badge/Website-crimson?style=for-the-badge&logo=WebAuthn)]()
+
 
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=dark&hide=contribs&show_icons=0) 
 
@@ -14,14 +20,6 @@
         <a href="#">Website</a> 
 </div>
 
-
-
-<b align="centr">  
-        
-      domains = { 
-           WebDev:       'playful', 
-           DataSciences: 'intriguing and revolutionary'}
-</b>
         
 <h3>Tech Stack</h3>
         
