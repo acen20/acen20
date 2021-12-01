@@ -8,10 +8,10 @@
 
 
 
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=dark&hide=contribs&show_icons=0) 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=synthwave&hide=contribs&show_icons=0) 
 
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&theme=dark&hide_border=1)](https://github.com/acen20/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&excludqe_repo=Hotel-Management-Reservation,Warehouse-Management-System&hidde=jupyter%20notebook,c%23&layout=compact&langs_count=10&theme=dark&hide_border=1)](https://github.com/acen20/)
 
 
         
