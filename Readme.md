@@ -6,8 +6,11 @@
         [![Made withJupyter](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:ahsenmailbox@gmail.com)
         [![Made withJupyter](https://img.shields.io/badge/Website-crimson?style=for-the-badge&logo=WebAuthn)]()
 
-[![Made withJupyter](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=micropython)](https://jupyter.org/try)
-        [![Made withJupyter](https://img.shields.io/badge/Web%20Development-teal?style=for-the-badge&logo=react)](https://jupyter.org/try)
+[![Made withJupyter](https://img.shields.io/badge/Machine%20Learning-darkred?style=for-the-badge&logo=micropython)](https://jupyter.org/try)
+        [![Made withJupyter](https://img.shields.io/badge/Web%20Development-black?style=for-the-badge&logo=react)](https://jupyter.org/try)
+        [![Made withJupyter](https://img.shields.io/badge/Data%20Analysis-midnightblue?style=for-the-badge&logo=tableau)](https://jupyter.org/try)
+        [![Made withJupyter](https://img.shields.io/badge/Deep%20Learning-whitesmoke?style=for-the-badge&logo=pytorch)](https://jupyter.org/try)
+        
 
 
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=dark&hide=contribs&show_icons=0) 
