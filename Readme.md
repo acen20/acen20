@@ -2,7 +2,7 @@
 <div align="center">
         
 [![Made withJupyter](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ahsen-nazir10)
-        [![Made withJupyter](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook)](https://facebook.com/acen20)
+        [![Made withJupyter](https://img.shields.io/badge/Facebook-whitesmoke?style=for-the-badge&logo=Facebook)](https://facebook.com/acen20)
         [![Made withJupyter](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:ahsenmailbox@gmail.com)
         [![Made withJupyter](https://img.shields.io/badge/Website-crimson?style=for-the-badge&logo=WebAuthn)]()
 
