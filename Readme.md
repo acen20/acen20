@@ -9,10 +9,6 @@
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=0&theme=synthwave&hdide=contribs&show_icons=1) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&excludqe_repo=Hotel-Management-Reservation,Warehouse-Management-System&hidde=jupyter%20notebook,c%23&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/acen20/)
-
-
-        
-<h3>Tech Stack</h3>
         
 [![Made withJupyter](https://img.shields.io/badge/Machine%20Learning-darkred?style=for-the-badge&logo=micropython)](https://jupyter.org/try)
         [![Made withJupyter](https://img.shields.io/badge/Web%20Development-black?style=for-the-badge&logo=react)](https://jupyter.org/try)
