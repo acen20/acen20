@@ -1,5 +1,5 @@
 <div align="cener">
-<div align="cente">
+<div align="center">
         
 [![Made withJupyter](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ahsen-nazir10)
         [![Made withJupyter](https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=Facebook)](https://facebook.com/acen20)
@@ -12,7 +12,7 @@
 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20notebook,c%23&layout=compact&langs_count=4&theme=dark&hide_border=1)](https://github.com/acen20/)
-</div>
+
 
         
 <h3>Tech Stack</h3>
@@ -32,4 +32,5 @@
       </tr>
 </table>    
 
+</div>
 </div>
