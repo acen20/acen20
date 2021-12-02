@@ -5,17 +5,16 @@
         [![Made withJupyter](https://img.shields.io/badge/Facebook-whitesmoke?style=for-the-badge&logo=Facebook)](https://facebook.com/acen20)
         [![Made withJupyter](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:ahsenmailbox@gmail.com)
         [![Made withJupyter](https://img.shields.io/badge/Website-crimson?style=for-the-badge&logo=WebAuthn)]()
-
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=0&theme=synthwave&hdide=contribs&show_icons=1) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&excludqe_repo=Hotel-Management-Reservation,Warehouse-Management-System&hidde=jupyter%20notebook,c%23&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/acen20/)
         
 [![Made withJupyter](https://img.shields.io/badge/Machine%20Learning-darkred?style=for-the-badge&logo=micropython)](https://jupyter.org/try)
         [![Made withJupyter](https://img.shields.io/badge/Web%20Development-black?style=for-the-badge&logo=react)](https://jupyter.org/try)
         [![Made withJupyter](https://img.shields.io/badge/Data%20Analysis-midnightblue?style=for-the-badge&logo=tableau)](https://jupyter.org/try)
         [![Made withJupyter](https://img.shields.io/badge/Deep%20Learning-whitesmoke?style=for-the-badge&logo=pytorch)](https://jupyter.org/try)
 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=0&theme=synthwave&hdide=contribs&show_icons=1) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&excludqe_repo=Hotel-Management-Reservation,Warehouse-Management-System&hidde=jupyter%20notebook,c%23&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/acen20/)
+    
 <h5>Crew</h5>
     <td colspan="5" align="center">
     
