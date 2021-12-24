@@ -1,4 +1,3 @@
-<div align="cener">
 <div align="center">
         
 [![Made withJupyter](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ahsen-nazir10)
@@ -14,14 +13,5 @@
 ![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=0&theme=synthwave&hdide=contribs&show_icons=1) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20ntebook,c%23,javascript,css,scss,html&layout=compact&langs_count=10&theme=radical&hide_border=1)](https://github.com/acen20/)
-    
-<h5>Crew</h5>
-    <td colspan="5" align="center">
-    
 
-    </td>
-      </tr>
-</table>    
-
-</div>
 </div>
