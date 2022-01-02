@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&exclude_repo=Hotel-Management-Reservation,Warehouse-Management-System&hide=jupyter%20ntebook,c%23,javascript,css,scss,html&layout=compact&langs_count=10&theme=radical&hide_border=1)
 
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=0&theme=dark&hdide=contribs&show_icons=1) 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=0&theme=radical&hdide=contribs&show_icons=1) 
 
 
 
