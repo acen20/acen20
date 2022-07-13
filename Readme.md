@@ -3,7 +3,7 @@
 [![Made with Jupyter](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://linkedin.com/in/ahsen-nazir10)
         [![Made withJupyter](https://img.shields.io/badge/Facebook-whitesmoke?style=for-the-badge&logo=Facebook)](https://facebook.com/acen20)
         [![Made withJupyter](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:ahsenmailbox@gmail.com)
-        [![Made withJupyter](https://img.shields.io/badge/Website-crimson?style=for-the-badge&logo=WebAuthn)](https://github.com/acen20)
+        [![Made withJupyter](https://img.shields.io/badge/Website-crimson?style=for-the-badge&logo=WebAuthn)](https://acen20.github.io)
         
 [![Made with Jupyter](https://img.shields.io/badge/Machine%20Learning-darkred?style=for-the-badge&logo=micropython)](https://jupyter.org/try)
         [![Made withJupyter](https://img.shields.io/badge/Web%20Development-black?style=for-the-badge&logo=react)](https://jupyter.org/try)
