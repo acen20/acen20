@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acen20&layout=donut-vertical&size_weight=0.2&count_weight=0.2&langs_count=10&theme=radical&hide_border=1)
 
-![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=radical&hdide=contribs&show_icons=1) 
+![Ahsen](https://github-readme-stats.vercel.app/api?username=acen20&count_private=true&show_icons=true&hide_border=1&theme=radical&hdide=contribs&show_icons=true&rank_icon=github) 
 
 
 
